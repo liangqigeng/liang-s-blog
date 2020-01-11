@@ -1,2 +1,1 @@
-I belive this is wrong！
-This is a test!
+这是记录我生活的所思所想的日记。一起来共同口味生活这瓶苦酒！！！

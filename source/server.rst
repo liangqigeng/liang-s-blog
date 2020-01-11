@@ -9,4 +9,3 @@
    
    server/redirection
    server/more_port
-   server/ubuntu
